@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+## Youtube Clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+The purpose  of this project was to utilize the power of React to create small, fast youtube player.The base of the project is built with boiler plates created by Stephen Grider.
 
-### Getting Started
+The project is broken into two main sections; the main index.js file that compiles all of the information and a components folder which holds each component (i.e search bar, video list, video detail).
 
-There are two methods for getting started with this repo.
+Along with the React framework, the project is also utilizes Bootstrap, the Youtube API in order to pull live and active data, the Youtube API NPM package as well as Lobash extention to allow for timed delays between search queries.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Further projects for the app would be primarily to change the aesthetics to mirror the actual Youtube website.
